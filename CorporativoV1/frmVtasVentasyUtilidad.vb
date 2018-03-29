@@ -1,4 +1,12 @@
-﻿Option Strict Off
+﻿'**********************************************************************************************************************'
+'*PROGRAMA: FORMULARIO DE VENTAS Y UTILIDAD JOYERIA RAMOS  
+'*AUTOR: MIGUEL ANGEL GARCIA WHA 
+'*EMPRESA: GRUPO VITEK
+'*FECHA DE INICIO: 02/01/2018     
+'*FECHA DE TERMINACION:   
+'**********************************************************************************************************************'
+
+Option Strict Off
 Option Explicit On
 Imports Microsoft.Office.Interop
 Imports System.IO
