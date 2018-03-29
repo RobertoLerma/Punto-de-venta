@@ -111,15 +111,17 @@ Public Class frmConfigGralCorporativo
             txtCodificacion.Text = Trim(RsGral.Fields("Codificacion").Value)
             txtCodificacion.Tag = Trim(RsGral.Fields("Codificacion").Value)
             FormatoDif = (Trim(RsGral.Fields("LapsoDifStock").Value))
-            If FormatoDif = "H1" Then
+
+            If FormatoDif = "M" Then
                 optHoras.Checked = True
                 optHoras.Tag = 1
                 optMinutos.Tag = 0
-            ElseIf FormatoDif = "M1" Then
+            ElseIf FormatoDif = "H" Then
                 optMinutos.Checked = True
                 optMinutos.Tag = 1
                 optHoras.Tag = 0
             End If
+
             txtDiferenciaStock.Text = Mid(Trim(RsGral.Fields("LapsoDifStock").Value), 2, Len(Trim(RsGral.Fields("LapsoDifStock").Value)))
             txtDiferenciaStock.Tag = txtDiferenciaStock.Text
 

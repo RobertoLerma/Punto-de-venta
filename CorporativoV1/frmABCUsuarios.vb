@@ -761,27 +761,12 @@ Public Class frmABCUsuarios
         Me.__lstPrivilegios_1_ColumnHeader_1.Text = "Funciones Denegadas"
         Me.__lstPrivilegios_1_ColumnHeader_1.Width = 753
         '
-        'btnMoverP
-        '
-        '
-        'btnMoverU
-        '
-        '
         'dbcGrupos
         '
         Me.dbcGrupos.Location = New System.Drawing.Point(0, 0)
         Me.dbcGrupos.Name = "dbcGrupos"
         Me.dbcGrupos.Size = New System.Drawing.Size(121, 21)
         Me.dbcGrupos.TabIndex = 0
-        '
-        'lstPrivilegios
-        '
-        '
-        'lstUsuarios
-        '
-        '
-        'optTipo
-        '
         '
         'optTipoUsuario
         '
@@ -3196,14 +3181,14 @@ MError:
     End Sub
 
     Private Sub _dbcGrupos_0_MouseUp(ByVal eventSender As System.Object, ByVal eventArgs As System.Windows.Forms.MouseEventArgs) Handles _dbcGrupos_0.MouseUp
-        Dim Index As Integer
+        'Dim Index As Integer
         '= _dbcGrupos_0.GetIndex(eventSender)
-        Dim Aux As String
-        Aux = Trim(Me._dbcGrupos_0.Text)
+        'Dim Aux As String
+        'Aux = Trim(Me._dbcGrupos_0.Text)
         'If Me._dbcGrupos_0.SelectedItem <> 0 Then
         '    _dbcGrupos_0_Leave(_dbcGrupos_0, New System.EventArgs())
         'End If
-        Me._dbcGrupos_0.Text = Aux
+        'Me._dbcGrupos_0.Text = Aux
     End Sub
 
 
@@ -3297,14 +3282,14 @@ MError:
     End Sub
 
     Private Sub _dbcGrupos_1_MouseUp(ByVal eventSender As System.Object, ByVal eventArgs As System.Windows.Forms.MouseEventArgs) Handles _dbcGrupos_1.MouseUp
-        Dim Index As Integer
+        ' Dim Index As Integer
         '= _dbcGrupos_1.GetIndex(eventSender)
-        Dim Aux As String
-        Aux = Trim(Me._dbcGrupos_1.Text)
+        'Dim Aux As String
+        'Aux = Trim(Me._dbcGrupos_1.Text)
         'If Me._dbcGrupos_1.SelectedItem <> 0 Then
         '    _dbcGrupos_1_Leave(_dbcGrupos_1, New System.EventArgs())
         'End If
-        Me._dbcGrupos_1.Text = Aux
+        'Me._dbcGrupos_1.Text = Aux
     End Sub
 
     Private Sub btnBuscar_Click(sender As Object, e As EventArgs) Handles btnBuscar.Click

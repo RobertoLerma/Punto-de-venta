@@ -48,17 +48,21 @@ Public Class frmBancosProcesoMensualConsultaOrigenAplicRec
     Dim PierdeFoco As Boolean
     Dim intCodAgrupador As Integer
     Dim intCodRubro As Integer
-    Dim tecla As Integer
+    Public WithEvents btnNuevo As Button
+    Public WithEvents btnBuscar As Button
+    Public tecla As Integer
+    Public strControlActual As String 'Nombre del control actual
 
     Sub Buscar()
         On Error GoTo Merr
         Dim strSQL As String
         Dim strTag As String 'Cadena que contendra el estring del tag que se le mandara al, fromularo de consultas
-        Dim strCaptionForm As String 'Titulo que mostrara el formulario de consultas
-        Dim strControlActual As String 'Nombre del control actual
+        Dim strCaptionForm As String 'Titulo que mostrara el formulario de consultas 
         Dim I As Integer
-        strControlActual = UCase(System.Windows.Forms.Form.ActiveForm.ActiveControl.Name) 'Nombre del contro actual (Del que se mando llamar la consulta)
+
+        'strControlActual = UCase(System.Windows.Forms.Form.ActiveForm.ActiveControl.Name) 'Nombre del contro actual (Del que se mando llamar la consulta)
         strTag = UCase(Me.Name) & "." & strControlActual 'El tag sera el nombre del formulario + el nombre del control
+
         Select Case strControlActual
             Case "TXTAGRUPADOR"
                 strCaptionForm = "Consulta de Agrupadores de Origen y Aplicación de Recursos"
@@ -73,7 +77,8 @@ Public Class frmBancosProcesoMensualConsultaOrigenAplicRec
             Case Else
                 strControlActual = ""
         End Select
-        If strControlActual = "" Then Exit Sub
+
+        'If strControlActual = "" Then Exit Sub
 
         ModEstandar.BorraCmd()
         Cmd.CommandText = "dbo.Up_Select_Datos"
@@ -81,25 +86,29 @@ Public Class frmBancosProcesoMensualConsultaOrigenAplicRec
         Cmd.Parameters.Append(Cmd.CreateParameter("Renglon", ADODB.DataTypeEnum.adInteger, ADODB.ParameterDirectionEnum.adParamReturnValue))
         Cmd.Parameters.Append(Cmd.CreateParameter("Sentencia", ADODB.DataTypeEnum.adChar, ADODB.ParameterDirectionEnum.adParamInput, 800, gStrSql))
         RsGral = Cmd.Execute
+
         'Si no regresa datos la consulta entonces manda mensage y sale del procedimiento
         If RsGral.RecordCount = 0 Then
             MsjNoExiste(C_msgSINDATOS, gstrNombCortoEmpresa)
             Exit Sub
         End If
-        'Carga el formulario de consulta
-        '      si jala Load(FrmConsultas)
-        'With FrmConsultas.Flexdet
-        '	Select Case strControlActual
-        '		Case "TXTAGRUPADOR"
-        '			Call ConfiguraConsultas(FrmConsultas, 5700, RsGral, strTag, strCaptionForm)
-        '			.set_ColWidth(0,  , 900) 'Columna del Código
-        '			.set_ColWidth(1,  , 4800) 'Columna de la Descripción
-        '		Case "TXTRUBRO"
-        '			Call ConfiguraConsultas(FrmConsultas, 5700, RsGral, strTag, strCaptionForm)
-        '			.set_ColWidth(0,  , 900) 'Columna del Código
-        '			.set_ColWidth(1,  , 4800) 'Columna de la Descripción
-        '	End Select
-        'End With
+
+        'Carga el formulario de consulta 
+        Dim FrmConsultas As FrmConsultas = New FrmConsultas()
+        ConfiguraConsultas(FrmConsultas, 5700, RsGral, strTag, strCaptionForm)
+
+        With FrmConsultas.Flexdet
+            Select Case strControlActual
+                Case "TXTAGRUPADOR"
+                    'ConfiguraConsultas(FrmConsultas, 5700, RsGral, strTag, strCaptionForm)
+                    .set_ColWidth(0, 0, 900) 'Columna del Código
+                    .set_ColWidth(1, 0, 4800) 'Columna de la Descripción
+                Case "TXTRUBRO"
+                    'ConfiguraConsultas(FrmConsultas, 5700, RsGral, strTag, strCaptionForm)
+                    .set_ColWidth(0, 0, 900) 'Columna del Código
+                    .set_ColWidth(1, 0, 4800) 'Columna de la Descripción
+            End Select
+        End With
         FrmConsultas.ShowDialog()
 Merr:
         If Err.Number <> 0 Then ModEstandar.MostrarError()
@@ -634,17 +643,18 @@ Merr:
     End Sub
 
     Private Sub txtAgrupador_Enter(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles txtAgrupador.Enter
+        strControlActual = UCase("txtAgrupador")
         SelTextoTxt(txtAgrupador)
         Pon_Tool()
     End Sub
 
     Private Sub txtAgrupador_KeyPress(ByVal eventSender As System.Object, ByVal eventArgs As System.Windows.Forms.KeyPressEventArgs) Handles txtAgrupador.KeyPress
-        Dim KeyAscii As Integer = Asc(eventArgs.KeyChar)
-        ModEstandar.gp_CampoNumerico(KeyAscii)
-        eventArgs.KeyChar = Chr(KeyAscii)
-        If KeyAscii = 0 Then
-            eventArgs.Handled = True
-        End If
+        'Dim KeyAscii As Integer = Asc(eventArgs.KeyChar)
+        'ModEstandar.gp_CampoNumerico(KeyAscii)
+        'eventArgs.KeyChar = Chr(KeyAscii)
+        'If KeyAscii = 0 Then
+        '    eventArgs.Handled = True
+        'End If
     End Sub
 
     Private Sub txtAgrupador_Leave(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles txtAgrupador.Leave
@@ -662,17 +672,18 @@ Merr:
     End Sub
 
     Private Sub txtRubro_Enter(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles txtRubro.Enter
+        strControlActual = UCase("txtRubro")
         SelTextoTxt(txtRubro)
         Pon_Tool()
     End Sub
 
     Private Sub txtRubro_KeyPress(ByVal eventSender As System.Object, ByVal eventArgs As System.Windows.Forms.KeyPressEventArgs) Handles txtRubro.KeyPress
-        Dim KeyAscii As Integer = Asc(eventArgs.KeyChar)
-        ModEstandar.gp_CampoNumerico(KeyAscii)
-        eventArgs.KeyChar = Chr(KeyAscii)
-        If KeyAscii = 0 Then
-            eventArgs.Handled = True
-        End If
+        'Dim KeyAscii As Integer = Asc(eventArgs.KeyChar)
+        'ModEstandar.gp_CampoNumerico(KeyAscii)
+        'eventArgs.KeyChar = Chr(KeyAscii)
+        'If KeyAscii = 0 Then
+        '    eventArgs.Handled = True
+        'End If
     End Sub
 
     Private Sub txtRubro_Leave(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles txtRubro.Leave
@@ -731,6 +742,8 @@ Merr:
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.lblModificados = New System.Windows.Forms.Label()
+        Me.btnNuevo = New System.Windows.Forms.Button()
+        Me.btnBuscar = New System.Windows.Forms.Button()
         Me.Frame1.SuspendLayout()
         CType(Me.flexDetalle, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Frame2.SuspendLayout()
@@ -1011,12 +1024,36 @@ Merr:
         Me.lblModificados.TabIndex = 14
         Me.lblModificados.Visible = False
         '
+        'btnNuevo
+        '
+        Me.btnNuevo.BackColor = System.Drawing.SystemColors.Control
+        Me.btnNuevo.Cursor = System.Windows.Forms.Cursors.Default
+        Me.btnNuevo.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.btnNuevo.Location = New System.Drawing.Point(128, 463)
+        Me.btnNuevo.Name = "btnNuevo"
+        Me.btnNuevo.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.btnNuevo.Size = New System.Drawing.Size(109, 36)
+        Me.btnNuevo.TabIndex = 73
+        Me.btnNuevo.Text = "&Nuevo"
+        Me.btnNuevo.UseVisualStyleBackColor = False
+        '
+        'btnBuscar
+        '
+        Me.btnBuscar.Location = New System.Drawing.Point(13, 463)
+        Me.btnBuscar.Name = "btnBuscar"
+        Me.btnBuscar.Size = New System.Drawing.Size(109, 36)
+        Me.btnBuscar.TabIndex = 72
+        Me.btnBuscar.Text = "&Buscar"
+        Me.btnBuscar.UseVisualStyleBackColor = False
+        '
         'frmBancosProcesoMensualConsultaOrigenAplicRec
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Control
-        Me.ClientSize = New System.Drawing.Size(643, 451)
+        Me.ClientSize = New System.Drawing.Size(643, 511)
+        Me.Controls.Add(Me.btnNuevo)
+        Me.Controls.Add(Me.btnBuscar)
         Me.Controls.Add(Me.Frame1)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.lblSeleccionado)
@@ -1041,4 +1078,11 @@ Merr:
 
     End Sub
 
+    Private Sub btnNuevo_Click(sender As Object, e As EventArgs) Handles btnNuevo.Click
+        Nuevo()
+    End Sub
+
+    Private Sub btnBuscar_Click(sender As Object, e As EventArgs) Handles btnBuscar.Click
+        Buscar()
+    End Sub
 End Class
