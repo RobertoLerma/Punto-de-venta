@@ -1,0 +1,480 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CorporativoV1
+</name>
+</assembly>
+<members>
+<member name="T:CorporativoV1.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources._018_price_tag_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources._83217b16_01d8_40cc_851f_7bd8b356f992">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources._83217b16_01d8_40cc_851f_7bd8b356f9921">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.buscar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.Cancel_48x">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.conexion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.Eliminar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.Entrar1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.Eraser_25x">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.F12_Search_28x">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.fondos2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.grabar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.inicio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.inicio1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.inicio2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.JMR">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.JMR1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.JMR2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.JMR3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.JMR4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.llave1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.login_mario">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.MR2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.nuevo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.paisaje2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.paisaje21">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.Print_48x">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.salir">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.Save_48x">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.vitek1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.vitek11">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.vitek2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.vitek21">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.vitek7">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.vitek71">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.VSO_NewFile_40x">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CorporativoV1.My.Resources.Resources.WhatsApp_Image_2018_01_11_at_10_37_44_AM__3_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="F:CorporativoV1.frmBancosProcesoDiarioRegistrodeDepositos.strFolioPesos">
+Vars para folios de origen aplicacion cuando son depositos internos Pes/Dol
+</member>
+<member name="F:CorporativoV1.FrmConsultasEspeciales.ToolTip1">
+ ********************************************************************************************************************
+ MODIFICACION DE LA CONSULTA DE REPARACIONES - ESTABA MUY LENTA POR UNA FUNCION CONTENIDA EN EL SELECT.  SE MEJORO EL
+ FUNCIONAMIENTO OPERATIVO DEL COMBO Y DEL FILTRADO DEL NOMBRE DEL CLIENTE
+ AFECTA :
+ Administración de Reparaciones - frmCorpoControlReparaciones_Corpo
+ Reporte de Reparaciones - frmVtasRptReparaciones_Corpo
+ 15SEP2006 - MAVF
+ ********************************************************************************************************************
+</member>
+<member name="F:CorporativoV1.frmCorpoABCArticulos.cINDEFINIDA">
+ ****************************************************************************************************************************************************
+ CORRECCION FUNCIONAMIENTO DE DESCRIPCION DEL ARTICULO PARA JOYERIA, YA QUE CUANDO SE SELECCIONABA UNA SUBLINEA EL
+ DATO CORRESPONDIENTE A LA DESCRIPCION CORTE NO SE ACTUALIZABA EN LA DESCRIPCION DEL ARTICULO.
+ 06AGO2007 - MAVF
+
+ SE ELIMINÓ VALIDACIÓN DE KILATES PARA GRUPO DE JOYERIA, ESTO PERMITE QUE EL DATO 0 KILATES NO SE CONSIDERE EN LA DESCRIPCION
+ 26MAR2008 - MAVF
+
+ SE AGREGARON 4 CAMPOS NUEVOS PARA EL MANEJO DE DIAMANTE SUELTO ( MDS )
+ SE MODIFICO FUNCIONES:  GUARDAR - VALIDARDATOSMANEJODIAMANTESUELTO-CAMBIOS-NUEVO-LLENADATOS-ELIMINAR
+ SPS --> ModStoredProcedures.PR_IMECatArticulos  -- OPCION Guarar-Modificar
+ 27OCT2010 - MAVF Ver
+
+ MDS CORRECCION - SE ELIMINO VALIDACIÓN DE PESO 0.00 YA QUE ES UN DATO NO REQUERIDO PARA TODOS LOS ARTICULOS DEL TIPO JOYERIA ( SOLO APLICA EN JOYERIA DIAMANTE SUELTO )
+ SE CONSIDERO ADICIONALMENTE  -SIN KILATAJE-  PARA EVITAR QUE PONGA 0K EN LA DESCRIPCIÓN - PETICION DE MRB DE ULTIMA HORA ( SIN $$$)
+ 08NOV2010 - MAVF Ver
+
+ Ver 1.1       Estatus:  Aprobado
+ ****************************************************************************************************************************************************
+</member>
+<member name="M:CorporativoV1.frmCorpoABCArticulos.Cifrar(System.String@)">
+Utiliza la variable global -gStrCodificacionImportes- para la codificacion de los costos en el abc de articulos
+</member>
+<member name="M:CorporativoV1.frmCorpoABCArticulos.DesCifrar(System.String@)">
+Utiliza la variable global -gStrCodificacionImportes- para la codificacion de los costos en el abc de articulos
+</member>
+<member name="M:CorporativoV1.frmCorpoABCArticulos.BuscaSubLDescCortaDesc(System.Int32@,System.Int32@,System.Int32@,System.String@)">
+06AGO2007 - MAVF
+</member>
+<member name="M:CorporativoV1.frmCorpoABCArticulos.dbcSubLinea_CursorChanged(System.Object,System.Windows.Forms.KeyEventArgs)">
+06AGO2007 - MAVF
+</member>
+<member name="F:CorporativoV1.frmCorpoControlReparaciones_Corpo.components">
+ ********************************************************************************************************************
+ Programa: Control de Reparaciones
+ Autor: Rosaura Torres López
+ Fecha de Creación: 01/Julio/2003
+
+ MODIFICACION DE LA FUNCION DE ESTATUS DE REPARACIONES - SE AGREGARON PARAMETROS
+ 15SEP2006 - MAVF
+ ********************************************************************************************************************
+</member>
+<member name="F:CorporativoV1.frmCXPJoyeria.components">
+ ****************************************************************************************************************************************************
+ SE AGREGARON 4 CAMPOS NUEVOS PARA EL MANEJO DE DIAMANTE SUELTO ( MDS )
+ SE MODIFICO FUNCIONES:  GUARDAR-VALIDARDATOSMANEJODIAMANTESUELTO-VALIDADATOS-LLENAFORMA-LLENADATOS-CAMBIOS
+ 27OCT2010 - MAVF Ver
+
+ MDS CORRECCION - SE ELIMINO VALIDACIÓN DE PESO 0.00 YA QUE ES UN DATO NO REQUERIDO PARA TODOS LOS ARTICULOS DEL TIPO JOYERIA ( SOLO APLICA EN JOYERIA DIAMANTE SUELTO )
+ NO SE VALIDARA PARA RESURTIDOS
+ SE CONSIDERO ADICIONALMENTE  -SIN KILATAJE-  PARA EVITAR QUE PONGA 0K EN LA DESCRIPCIÓN - PETICION DE MRB DE ULTIMA HORA ( SIN $$$)
+ 08NOV2010 - MAVF Ver
+
+ Ver 1.1       Estatus:  Aprobado
+ ****************************************************************************************************************************************************
+</member>
+<member name="M:CorporativoV1.frmCXPJoyeria.ValidaDatosManejoDiamanteSuelto">
+ 27OCT2010 - MAVF Ver
+</member>
+<member name="F:CorporativoV1.frmFactAnalisisVentas.TipoMovto">
+Const TipoMovto = 1
+</member>
+<member name="F:CorporativoV1.frmFactFacturacionEspecial.TipoMovto">
+Const TipoMovto = 1
+</member>
+<member name="M:CorporativoV1.frmFactReportesFacturacionDetalladaXSucursal.Imprime">
+Modificación.-  Agregar Facturación Especial
+</member>
+<member name="M:CorporativoV1.frmFactReportesFacturacionGlobalXSucursal.Imprime">
+Modificación.-  Agregar Facturación Especial
+</member>
+<member name="F:CorporativoV1.frmFactReportesMejoresClientes.components">
+Agregar Facturación Especial
+</member>
+<member name="F:CorporativoV1.frmInvAnalisisComparativo.pry">
+estas variables son contadores para los ciclos
+</member>
+<member name="M:CorporativoV1.frminvHojadecontrol.dbcRmodelo_CursorChanged(System.Object,System.EventArgs)">
+Relojeria --Modelos
+</member>
+<member name="M:CorporativoV1.frmReimpresionCorteFinal.InitializeComponent">
+Private Sub chkTodas_Click()
+    Select Case chkTodas.Value
+        Case vbChecked
+            mblnFueraChange = True
+            dbcSucursal.text = "[ Todas ... ]"
+            dbcSucursal.Tag = ""
+            mintCodSucursal = 0
+            dbcSucursal.Enabled = False
+            mblnFueraChange = False
+        Case Else
+            mblnFueraChange = True
+            dbcSucursal.text = ""
+            dbcSucursal.Tag = ""
+            mintCodSucursal = 0
+            dbcSucursal.Enabled = True
+            mblnFueraChange = False
+    End Select
+End Sub
+</member>
+<member name="M:CorporativoV1.frmRptExistenciasyCostos.dbcRmodelo_CursorChanged(System.Object,System.EventArgs)">
+Relojeria --Modelos
+</member>
+<member name="M:CorporativoV1.frmRptKardexArticulo.dbcRmodelo_CursorChanged(System.Object,System.EventArgs)">
+Relojeria --Modelos
+</member>
+<member name="M:CorporativoV1.frmVerificadorPrecios.txtCodArticulo_TextChanged(System.Object,System.EventArgs)">
+Modific.-  24ENE2005 -  no mostraba promociones de articulos por fecha incorrecta
+</member>
+<member name="M:CorporativoV1.frmVtasReportedeCuentasporCobrar.txtNombre_TextChanged(System.Object,System.EventArgs)">
+COMBO CLIENTES
+</member>
+<member name="F:CorporativoV1.frmVtasRptReparaciones_Corpo.ToolTip1">
+ ********************************************************************************************************************
+ MODIFICACION DE LA FUNCION DE ESTATUS DE REPARACIONES - SE AGREGARON PARAMETROS
+ 15SEP2006 - MAVF
+ ********************************************************************************************************************
+</member>
+<member name="M:CorporativoV1.frmVtasRPTVentasSalidadeMercanciaFlujoVenta.DevuelveQuery(System.Int32@)">
+ se agregó ventas, utilidad, valor del inv, filtro por ventas e inv > 0
+ Ult Modific.- 28MAR2006
+</member>
+<member name="M:CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorCliente.DevuelveQuery">
+ SE AGREGO EL CAMPO CODIGO DEL ARTICULO (Abc de articulos) AL QUERY Y AL REPORTE
+ 10OCT2006
+</member>
+<member name="M:CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorCliente.txtCodCliente_Enter(System.Object,System.EventArgs)">
+03MAR2008 - MAVF
+</member>
+<member name="F:CorporativoV1.frmVtasRPTVtasSalMciaListadoVtasxCte.ToolTip1">
+ ***************************************************************************************************************************************************
+ LISTADO DE VENTAS AGRUPADO POR CLIENTE ORDENADO POR IMPORTE DESCENDENTE - SEGENERA DIRECTAMENTE A EXCEL - BASE
+ PARA ETIQUETAS DE CLIENTES - SE MODIFICO DESHABILITARMENU/ACCESOS/LLENAVFORMAS
+ NO OLVIDAR QUE ETIQUETA Y COMBO DEL CLIENTE ESTAN OCULTOS EN EL FRAME DE SUCURSAL
+ 06OCT2006 - MAVF
+
+ MODIFICACION DEL REPORTE.- SE AGREGARON CAMPOS NUEVOS AL REPORTE (TELCASA-TELOFICINA-EMAIL) E INFORMACION DE REPARACIONES
+ 11NOV2010 - MAVF Ver
+
+ SE AGREGO FORMATO TIPO TEXTO PARA COLUMNAS CP-TEL1-TEL2
+ 06DIC2010 - MAVF  Ver
+
+ Ver 1.1       Estatus: Aprobado
+ ***************************************************************************************************************************************************
+</member>
+<member name="M:CorporativoV1.frmVtasRPTVtasSalMciaListadoVtasxCte.EnviaExcel">
+ *******************************************************************************************************************
+ FUNCIONES PARA GENERACION DE ARCHIVO A EXCEL **********************************************************************
+ 06OCT2006 - MAVF
+</member>
+<member name="M:CorporativoV1.frmVtasRPTVtasSalMciaListadoVtasxCte.Encabezado">
+11NOV2010 - MAVF
+06DIC2010 - MAVF
+</member>
+<member name="M:CorporativoV1.frmVtasRPTVtasSalMciaListadoVtasxCte.chkTodas_CheckStateChanged(System.Object,System.EventArgs)">
+ 06OCT2006 - MAVF
+ FUNCIONES PARA GENERACION DE ARCHIVO A EXCEL **********************************************************************
+ *******************************************************************************************************************
+</member>
+<member name="M:CorporativoV1.frmVtasVentasporResurtir.EncabezadoGrupo">
+ MODIFIC.-  SE CAMBIO EL GRUPO POR LA DESCRIPCION DEL PROVEEDOR
+ REESTRUCTURACION DEL REPORTE 31MAYO2005 - MAVF
+</member>
+<member name="M:CorporativoV1.frmVtasVentasyExistxFam.Encabezado_ConcentradoPureza">
+18NOV2010 - MAVF
+</member>
+<member name="F:CorporativoV1.ModCorporativo.I">
+
+ SE AGREGO REPORTE VENTAS Y EXISTENCIAS POR FAMILIA A LA SEGURIDAD
+ 27OCT2010 - MAVF Ver
+
+ Ver 1.0       Estatus: Aprobado
+ ****************************************************************************************************************************************************
+</member>
+<member name="M:CorporativoV1.ModCorporativo.Referencia(System.String@)">
+Este Módulo contiene Funciones y Procedimientos que son muy particulares para el Corporativo
+</member>
+<member name="M:CorporativoV1.ModCorporativo.LlenaVectorFormas">
+27OCT2010 - MAVF
+</member>
+<member name="M:CorporativoV1.ModCorporativo.Acceso(System.Int32@)">
+ SE AGREGO ELEMENTO 157 - RPT VTAS Y EXIST X FAMILIA - 27OCT2010 - MAVF
+</member>
+<member name="M:CorporativoV1.ModCorporativo.DesHabilitaMenuPrincipal">
+27OCT2010 - MAVF
+</member>
+<member name="M:CorporativoV1.ModCorporativo.CargarDatosConfiguracionCorpo">
+SE CAMBIO LA VARIABLE GLOBAL PARA LA TASA DE IVA PORQUE DEBE SER CONSIDERADA POR SUCURSAL - Y NO GLOBAL
+21FEB2005
+</member>
+<member name="M:CorporativoV1.ModCorporativo.RedondeoUnidadFinal(System.Double@,System.Double@)">
+CALCULABA INCORRECTAMENTE LIMITES INFERIOR-SUPERIOR Y DEJABA IMPORTE CON DECIMALES.
+Function RedondeoUnidadFinalANTERIOR(importe As Currency, Decimales As Currency) As Double
+   Dim ParteInf As Currency
+   Dim ParteSup As Currency
+   Dim ParteEnt As Currency
+   Dim ParteDec As Currency
+   Dim ParteUnidad As Currency
+
+   Dim LimInfIni As Currency
+   Dim LimInfFin As Currency
+   Dim LimSupIni As Currency
+   Dim LimSupFin As Currency
+
+   '''Determina limite inferior y superior del rango permitido
+   ParteDec = ((importe * 100) Mod 100) / 100
+   ParteInf = ((importe - ParteDec) \ Decimales) * Decimales
+   ParteSup = ParteInf + Decimales
+
+   '''Determina los limites Ini y Fin de los limites Inf y Sup
+   LimInfIni = ParteInf
+   LimInfFin = ParteInf + (Decimales / 2)
+   LimSupIni = ParteSup - (Decimales / 2) + 0.01
+   LimSupFin = ParteSup
+
+   Select Case importe
+          Case LimInfIni To LimInfFin
+               RedondeoUnidadFinal = -1 * (importe - ParteInf)
+          Case LimSupIni To LimSupFin
+               RedondeoUnidadFinal = (ParteSup - importe)
+   End Select
+
+   RedondeoUnidadFinal = Round(RedondeoUnidadFinal, 4)
+End Function
+</member>
+<member name="M:CorporativoV1.ModCorporativo.ValidarRegistrodeImpresoras">
+ Validas si existen impresoras registradas, en caso de no existir, se envia al usuario al form. de registro
+ de impresoras
+</member>
+<member name="M:CorporativoV1.ModCorporativo.BuscaImagen(System.String@,System.Windows.Forms.PictureBox@)">
+Carga la imagen de cada uno de los articulos, si no existe entonces pone el logo por default
+</member>
+<member name="M:CorporativoV1.ModCorporativo.BuscaImagenArticulosNuevos(System.String@,System.String@,System.Object@)">
+Carga la posible imagen que sera asociada con el articulo en el abc
+</member>
+<member name="M:CorporativoV1.ModCorporativo.CargarRutaImpresoras">
+Carga ruta configurada para impresora de facturacion
+</member>
+<member name="M:CorporativoV1.ModCorporativo.Cifrar(System.String@)">
+Utiliza la variable global -gStrCodificacionImportes- para la codificacion de los costos en el abc de articulos
+</member>
+<member name="M:CorporativoV1.ModCorporativo.DesCifrar(System.String@)">
+Utiliza la variable global -gStrCodificacionImportes- para la codificacion de los costos en el abc de articulos
+</member>
+<member name="M:CorporativoV1.ModCorporativo.TicketSalidaporTransferencia(System.String@)">
+INCLUYE EL CODIGO DEL ARTICULO
+</member>
+<member name="M:CorporativoV1.ModStoredProcedures.PR_IMECatGrupos(System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+ ****************************************************************************************************************************************************
+ SE MODIFICARON SP PARA MANEJO DE DIAMANTE SUELTO:  CATARTICULOS-ORDENESCOMPRAPRECAT
+ 27OCT2010 - MAVF
+
+ Ver 1.0       Estatus: Aprobado
+ ****************************************************************************************************************************************************
+</member>
+</members>
+</doc>

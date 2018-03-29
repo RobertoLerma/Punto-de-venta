@@ -1,0 +1,859 @@
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSComctlLib.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSDATASRC.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSHierarchicalFlexGridLib.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.ComCtl3.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.CRVIEWERLib.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSDataListLib.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSHierarchicalFlexGridLib.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.TALBarCode.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\Interop.ComCtl3.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\Interop.VBRUN.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDataListLib.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDATASRC.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSHierarchicalFlexGridLib.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\MSDATASRC.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.StdFormat.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+c:\users\consultor vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor Vitek\documents\visual studio 2015\Projects\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.ComCtl3.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.CRVIEWERLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSDataListLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.TALBarCode.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\Interop.ComCtl3.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\Interop.VBRUN.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDataListLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDATASRC.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\MSDATASRC.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.StdFormat.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipal.resources
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO MIGUEL\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.ComCtl3.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.CRVIEWERLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSDataListLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.TALBarCode.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.ComCtl3.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.VBRUN.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDataListLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDATASRC.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\MSDATASRC.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.StdFormat.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipal.resources
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Consultor Vitek\Documents\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipal.resources
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Pictures\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipal.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAcceso.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAcceso.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCClientes.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcFormasdePago.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcSucursales.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTalleres.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTiposMaterial.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmCorpoAbcVendedores.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipalCorpo.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.CoreCompileInputs.cache
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Angel Wha\Downloads\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAbcBancos.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcCuentasBancarias.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcOrigenyAplicaciondeRecursos.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAcceso.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAcercaDe.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCClientes.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcFormasdePago.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcProvAcreed.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcSucursales.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTalleres.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTiposMaterial.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmCorpoAbcVendedores.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipalCorpo.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCRubrosdeAplicacionyOrigen.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCComisiones.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCDescuentosVendExternos.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcPromocionesTarjetasBanc.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmProgramacionPromociones.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCArticulos.resources
+C:\Users\Consultor_Vitek\Desktop\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCSubLineas.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.ComCtl3.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSDataListLib.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.ComCtl3.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.VBRUN.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDataListLib.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDATASRC.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\MSDATASRC.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\StdFormat.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAbcBancos.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcCuentasBancarias.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcOrigenyAplicaciondeRecursos.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAcceso.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAcercaDe.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCArticulos.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCClientes.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCComisiones.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCDescuentosVendExternos.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcFormasdePago.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcPromocionesTarjetasBanc.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcProvAcreed.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCRubrosdeAplicacionyOrigen.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCSubLineas.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcSucursales.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTalleres.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTiposMaterial.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmCorpoAbcVendedores.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmProgramacionPromociones.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipalCorpo.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.CargarSistemaCorporativoV1.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCMarca.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCModelos.resources
+C:\Users\Consultor_Vitek\Desktop\PROYECTO CORPORATIVO\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCFamilias.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.ComCtl3.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSDataListLib.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSHierarchicalFlexGridLib.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.ComCtl3.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.VBRUN.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDataListLib.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDATASRC.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.StdFormat.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.CargarSistemaCorporativoV1.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAbcBancos.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcCuentasBancarias.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcOrigenyAplicaciondeRecursos.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAcceso.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAcercaDe.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCArticulos.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCClientes.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCComisiones.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCDescuentosVendExternos.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCFamilias.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcFormasdePago.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCLineas.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCMarca.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCModelos.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcPromocionesTarjetasBanc.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcProvAcreed.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCRubrosdeAplicacionyOrigen.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCSubLineas.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcSucursales.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTalleres.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTiposMaterial.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmCorpoAbcVendedores.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmProgramacionPromociones.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercancia.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaClasifArtic.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaComisionVendedor.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaCompara.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaFlujoVenta.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorCliente.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorProv.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorVendedor.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaRelojeria.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaRelojMaterial.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVtasSalMciaListadoVtasxCte.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasporResurtir.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyExistenciasporProveedor.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyUtilidad.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipalCorpo.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.CoreCompileInputs.cache
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVentasPorGrupo.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmUtilidadporGrupo.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyExistxFam.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosGenerales.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorPeriodoySucursal.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorAbonos.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorReparaciones.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorConceptoDePago.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasReportedeApartados.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEEntradadeMercancia.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactAnalisisVentas.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVESalidadeMercancia.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEExistencias.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVELiquidacionVendedorExterno.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEIngresosSalidadeMercanciaaVendExt.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEDetalladodeEntradasSalidas.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRptReparaciones_Corpo.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasReportedeCuentasporCobrar.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasEstadodeResultados.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRelacionGastos.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificadorPrecios.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactFacturacionEspecial.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmReimpresionCorteFinal.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVDiarioMovtos.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesFacturacionGlobalXSucursal.resources
+C:\Users\Angel Wha\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesFacturacionDetalladaXSucursal.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\Interop.CREXPORTLib.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\Interop.CRPEAuto.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\Interop.CRVIEWERLib.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\Interop.Crystal.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\Interop.CrystalReportWizard.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.CargarSistemaCorporativoV1.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAbcBancos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcCuentasBancarias.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmABCModulos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcOrigenyAplicaciondeRecursos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmABCUsuarios.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAcceso.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAcercaDe.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmConsultas.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmConsultasClientes.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCArticulos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCClientes.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCComisiones.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCDescuentosVendExternos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCFamilias.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcFormasdePago.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCGrupos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCLineas.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCMarca.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCModelos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcPromocionesTarjetasBanc.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcProvAcreed.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCRubrosdeAplicacionyOrigen.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCSubLineas.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcSucursales.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTalleres.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTiposMaterial.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmCorpoAbcVendedores.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoFPAbcDenominaciones.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoRptClientes.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactAnalisisVentas.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactFacturacionEspecial.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesFacturacionDetalladaXSucursal.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesFacturacionGlobalXSucursal.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesImpresionTickets.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesMejoresClientes.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReporteVtasTarjetaCreditoXSucursal.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmProgramacionPromociones.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVDiarioMovtos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmReimpresionCorteFinal.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmReportes.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmUtilidadporGrupo.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVentasPorGrupo.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificadorPrecios.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasEstadodeResultados.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRelacionGastos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasReportedeApartados.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasReportedeCuentasporCobrar.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosGenerales.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorAbonos.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorConceptoDePago.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorPeriodoySucursal.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorReparaciones.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRptReparaciones_Corpo.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercancia.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaClasifArtic.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaComisionVendedor.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaCompara.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaFlujoVenta.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorCliente.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorProv.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorVendedor.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaRelojeria.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaRelojMaterial.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaUtilidad.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVtasSalMciaListadoVtasxCte.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEDetalladodeEntradasSalidas.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEEntradadeMercancia.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEExistencias.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEIngresosSalidadeMercanciaaVendExt.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVELiquidacionVendedorExterno.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasporResurtir.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyExistenciasporProveedor.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyExistxFam.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyUtilidad.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVESalidadeMercancia.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipalCorpo.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.CoreCompileInputs.cache
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\adodb.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\FlashControlV71.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\log4net.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\log4net.xml
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Consultor Vitek\Documents\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\adodb.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.ComCtl3.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSDataListLib.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\FlashControlV71.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\log4net.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.ComCtl3.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.VBRUN.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDataListLib.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.StdFormat.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\log4net.xml
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.CREXPORTLib.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.CRPEAuto.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.CRVIEWERLib.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.Crystal.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.CrystalReportWizard.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.CargarSistemaCorporativoV1.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAbcBancos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcCuentasBancarias.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmABCModulos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcOrigenyAplicaciondeRecursos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmABCUsuarios.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAcceso.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAcercaDe.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmConsultas.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmConsultasClientes.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCArticulos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCClientes.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCComisiones.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCDescuentosVendExternos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCFamilias.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcFormasdePago.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCGrupos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCLineas.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCMarca.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCModelos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcPromocionesTarjetasBanc.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcProvAcreed.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCRubrosdeAplicacionyOrigen.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCSubLineas.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcSucursales.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTalleres.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTiposMaterial.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmCorpoAbcVendedores.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoFPAbcDenominaciones.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoRptClientes.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactAnalisisVentas.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactFacturacionEspecial.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesFacturacionDetalladaXSucursal.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesFacturacionGlobalXSucursal.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesImpresionTickets.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesMejoresClientes.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReporteVtasTarjetaCreditoXSucursal.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmProgramacionPromociones.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVDiarioMovtos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmReimpresionCorteFinal.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmReportes.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmUtilidadporGrupo.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVentasPorGrupo.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificadorPrecios.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasEstadodeResultados.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRelacionGastos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasReportedeApartados.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasReportedeCuentasporCobrar.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosGenerales.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorAbonos.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorConceptoDePago.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorPeriodoySucursal.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorReparaciones.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRptReparaciones_Corpo.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercancia.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaClasifArtic.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaComisionVendedor.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaCompara.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaFlujoVenta.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorCliente.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorProv.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorVendedor.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaRelojeria.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaRelojMaterial.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaUtilidad.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVtasSalMciaListadoVtasxCte.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEDetalladodeEntradasSalidas.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEEntradadeMercancia.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEExistencias.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEIngresosSalidadeMercanciaaVendExt.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVELiquidacionVendedorExterno.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasporResurtir.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyExistenciasporProveedor.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyExistxFam.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyUtilidad.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVESalidadeMercancia.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipalCorpo.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.CoreCompileInputs.cache
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Desktop\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPJoyeria.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe.config
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\adodb.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.ComCtl3.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSDataListLib.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxInterop.MSHierarchicalFlexGridLib.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\AxMSHFlexGridArray.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\FlashControlV71.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\log4net.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.ComCtl3.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.VBRUN.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\stdole.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Interop.MSDataListLib.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.StdFormat.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\log4net.xml
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.CREXPORTLib.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.CRPEAuto.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.CRVIEWERLib.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.Crystal.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.CrystalReportWizard.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.Scripting.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.ResolveComReference.cache
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.CargarSistemaCorporativoV1.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAbcBancos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcCuentasBancarias.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmABCFunciones.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmABCModulos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAbcOrigenyAplicaciondeRecursos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmABCRFC.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmABCUsuarios.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmAcceso.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAcercaDe.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmAutorizaRecibe_Transf.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioAnticipoProveedoresAcreed.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioCancelaciondeMovimientosBanc.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioCargosDiversos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioCierreDiarioBancos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioConsultadeSaldos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioConsultaIngresosXSucursal.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioDesglosedeDepositos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioImportacionVouchers.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioOrigenyAplicacion.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioReferenciaVouchers.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioRegistrodeDepositos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioRegistrodeOtrosIngresos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioRegistrodePagos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoDiarioTraspasosBancarios.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoMensualCierreConciliacion.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoMensualConciliacionMensual.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoMensualConsultaOrigenAplicRec.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoMensualDepuraciondeMovimientosHist.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoMensualFlujoCajaGeneral.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoMensualMovimientosenConciliacion.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosProcesoMensualReporteOrigenyAplicacion.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosReporteAnalisisDiarioBancos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosReportedeMovimientosBancarios.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmBancosReporteMovBancariosXTipo.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCambioPassword.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmConfigCuentasNotific.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmConfigGralCorporativo.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmConfiguracion.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmConsultas.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmConsultasEspeciales.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCArticulos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCClientes.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCComisiones.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCDescuentosVendExternos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCFamilias.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcFormasdePago.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCGrupos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCLineas.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCMarca.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCModelos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcPromocionesTarjetasBanc.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcProvAcreed.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCRubrosdeAplicacionyOrigen.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoABCSubLineas.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcSucursales.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTalleres.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoAbcTiposMaterial.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmCorpoAbcVendedores.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoControlReparaciones_Corpo.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoFPAbcDenominaciones.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCorpoRptClientes.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPConsultaOrden.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPJoyeria.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPOrdenCompra.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPPresupuestado.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPRegFactComprasCargaInicial.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPReporteCuentasporPagar.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCxpReporteSaldoXProveedor.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPReporteSaldoXProveedores.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPrptArticulosPendientes.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPrptComprasPorProveedor.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPrptFacturas.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPrptMejoresProv.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPrptNotasCredito.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmCXPrptOC.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmEliminarDatos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactAnalisisVentas.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactAnalisisVentasImpresionTickets.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactFacturacionEspecial.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesFacturacionDetalladaXSucursal.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesFacturacionGlobalXSucursal.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesImpresionTickets.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReportesMejoresClientes.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactReporteVtasTarjetaCreditoXSucursal.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmImportacionImagenes.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmImpresionEtiquetas.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmInvAnalisisComparativo.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frminvHojadecontrol.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmProgramacionPromociones.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVConfigCaja.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVConfigFacturacion.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVConfigFolios.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVConfigLongitudDeDatosFactura.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVConfigPuntoVenta.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVConfigTicketVenta.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPVDiarioMovtos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmReimpresionCorteFinal.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmReportePrestamosPendientes.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmReportes.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmrptComparacionExistenciaStock.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmRptExistenciasyCostos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmRptKardexArticulo.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmRptTransferenciasNoConciliadas.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmUtilidadporGrupo.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVentasPorGrupo.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificadorPrecios.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVerificarConexion.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasEstadodeResultados.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRelacionGastos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasReportedeApartados.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasReportedeCuentasporCobrar.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosGenerales.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorAbonos.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorConceptoDePago.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorPeriodoySucursal.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTIngresosPorReparaciones.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRptReparaciones_Corpo.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercancia.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaClasifArtic.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaComisionVendedor.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaCompara.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaFlujoVenta.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorCliente.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorProv.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaPorVendedor.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaRelojeria.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaRelojMaterial.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVentasSalidadeMercanciaUtilidad.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasRPTVtasSalMciaListadoVtasxCte.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEDetalladodeEntradasSalidas.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEEntradadeMercancia.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEExistencias.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVEIngresosSalidadeMercanciaaVendExt.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVELiquidacionVendedorExterno.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasporResurtir.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyExistenciasporProveedor.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyExistxFam.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVentasyUtilidad.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmVtasVESalidadeMercancia.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.MDIMenuPrincipalCorpo.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.Resources.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.GenerateResource.Cache
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbproj.CoreCompileInputs.cache
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.exe
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.xml
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.pdb
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmFactDatosFiscales.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.FrmConsultasClientes.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.frmPagosSalMercancia.resources
+C:\Users\Consultor Vitek\Downloads\CORPORATIVO Y JOYERIA\CODIGO ANGEL WHA\CorporativoV1\CorporativoV1\obj\Debug\CorporativoV1.vbprojResolveAssemblyReference.cache
