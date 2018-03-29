@@ -27,12 +27,13 @@ Public Class frmABCFunciones
     Dim mblnSalir As Boolean 'Controla la salida con ESCAPE
 
     Dim mblnNuevo As Boolean
-    Friend WithEvents Panel1 As Panel
+    Public WithEvents Panel1 As Panel
     Public WithEvents btnSalir As Button
     Public WithEvents btnNuevo As Button
+    Public WithEvents btnBuscar As Button
     Dim mblnCambiosEnCodigo As Boolean
 
-
+    Public strControlActual As String 'Nombre del control actual
     Public Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
@@ -47,6 +48,7 @@ Public Class frmABCFunciones
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.btnSalir = New System.Windows.Forms.Button()
         Me.btnNuevo = New System.Windows.Forms.Button()
+        Me.btnBuscar = New System.Windows.Forms.Button()
         Me.fraFuncion.SuspendLayout()
         CType(Me.Label2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
@@ -154,6 +156,7 @@ Public Class frmABCFunciones
         'Panel1
         '
         Me.Panel1.BackColor = System.Drawing.Color.Gainsboro
+        Me.Panel1.Controls.Add(Me.btnBuscar)
         Me.Panel1.Controls.Add(Me.btnSalir)
         Me.Panel1.Controls.Add(Me.btnNuevo)
         Me.Panel1.Controls.Add(Me.fraFuncion)
@@ -167,7 +170,7 @@ Public Class frmABCFunciones
         Me.btnSalir.BackColor = System.Drawing.SystemColors.Control
         Me.btnSalir.Cursor = System.Windows.Forms.Cursors.Default
         Me.btnSalir.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.btnSalir.Location = New System.Drawing.Point(222, 141)
+        Me.btnSalir.Location = New System.Drawing.Point(241, 140)
         Me.btnSalir.Name = "btnSalir"
         Me.btnSalir.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnSalir.Size = New System.Drawing.Size(109, 36)
@@ -180,13 +183,26 @@ Public Class frmABCFunciones
         Me.btnNuevo.BackColor = System.Drawing.SystemColors.Control
         Me.btnNuevo.Cursor = System.Windows.Forms.Cursors.Default
         Me.btnNuevo.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.btnNuevo.Location = New System.Drawing.Point(107, 141)
+        Me.btnNuevo.Location = New System.Drawing.Point(126, 140)
         Me.btnNuevo.Name = "btnNuevo"
         Me.btnNuevo.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnNuevo.Size = New System.Drawing.Size(109, 36)
         Me.btnNuevo.TabIndex = 71
         Me.btnNuevo.Text = "&Nuevo"
         Me.btnNuevo.UseVisualStyleBackColor = False
+        '
+        'btnBuscar
+        '
+        Me.btnBuscar.BackColor = System.Drawing.SystemColors.Control
+        Me.btnBuscar.Cursor = System.Windows.Forms.Cursors.Default
+        Me.btnBuscar.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.btnBuscar.Location = New System.Drawing.Point(11, 140)
+        Me.btnBuscar.Name = "btnBuscar"
+        Me.btnBuscar.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.btnBuscar.Size = New System.Drawing.Size(109, 36)
+        Me.btnBuscar.TabIndex = 12
+        Me.btnBuscar.Text = "&Buscar"
+        Me.btnBuscar.UseVisualStyleBackColor = False
         '
         'frmABCFunciones
         '
@@ -216,8 +232,6 @@ Public Class frmABCFunciones
 
     End Sub
 
-
-
     'Este codigo es de Prueba y no se deberá tomar en cuenta como plantilla
     'hasta que Patricia determine la nueva froma de consultas que se utilizará
     Sub Buscar()
@@ -225,17 +239,12 @@ Public Class frmABCFunciones
         Dim strSQL As String
         Dim strTag As String 'Cadena que contendrá el string del tag que se le mandara al fromulario de consultas
         Dim strCaptionForm As String 'Titulo que mostrara el formulario de consultas
-        Dim strControlActual As String 'Nombre del control actual
 
-        If (txtCodFuncion.Text = "") Then
-            strControlActual = UCase(txtCodFuncion.Name) 'Nombre del contro actual (Del que se mandó llamar la consulta)
-            strTag = UCase(Me.Name & "." & strControlActual) 'El tag sera el nombre del formulario + el nombre del control
-        ElseIf (txtDescFuncion.Text = "") Then
-            strControlActual = UCase(txtDescFuncion.Name) 'Nombre del contro actual (Del que se mandó llamar la consulta)
-            strTag = UCase(Me.Name & "." & strControlActual) 'El tag sera el nombre del formulario + el nombre del control
-        End If
 
+        'strControlActual = UCase(txtCodFuncion.Name) 'Nombre del contro actual (Del que se mandó llamar la consulta)
+        strTag = UCase(Me.Name & "." & strControlActual) 'El tag sera el nombre del formulario + el nombre del control
         strCaptionForm = "Consulta de Funciones"
+
         Select Case strControlActual
             Case "TXTCODFUNCION"
                 gStrSql = "SELECT RIGHT('000'+LTRIM(CodFuncion),3) AS CODIGO, DescFuncion AS DESCRIPCION FROM CatFunciones WHERE CodModulo = " & mintCodModulo & " ORDER BY CodFuncion"
@@ -278,8 +287,8 @@ Public Class frmABCFunciones
         End If
 
         'Carga el formulario de consulta
-        'Load(FrmConsultas)
-        Call ConfiguraConsultas(FrmConsultas, 5700, RsGral, strTag, strCaptionForm)
+        Dim FrmConsultas As FrmConsultas = New FrmConsultas()
+        ConfiguraConsultas(FrmConsultas, 5700, RsGral, strTag, strCaptionForm)
 
         With FrmConsultas.Flexdet
             Select Case strControlActual
@@ -558,6 +567,7 @@ Merr:
     End Sub
 
     Private Sub txtCodFuncion_Enter(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles txtCodFuncion.Enter
+        strControlActual = UCase("txtCodFuncion")
         SelTextoTxt((Me.txtCodFuncion))
         Pon_Tool()
     End Sub
@@ -616,6 +626,7 @@ Merr:
     End Sub
 
     Private Sub txtDescFuncion_Enter(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles txtDescFuncion.Enter
+        strControlActual = UCase("txtDescFuncion")
         SelTextoTxt((Me.txtDescFuncion))
         Pon_Tool()
     End Sub
@@ -631,5 +642,9 @@ Merr:
 
     Private Sub btnSalir_Click(sender As Object, e As EventArgs) Handles btnSalir.Click
         Me.Close()
+    End Sub
+
+    Private Sub btnBuscar_Click(sender As Object, e As EventArgs) Handles btnBuscar.Click
+        Buscar()
     End Sub
 End Class

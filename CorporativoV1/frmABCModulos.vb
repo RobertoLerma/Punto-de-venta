@@ -35,8 +35,11 @@ Public Class frmABCModulos
     Dim mblnSalir As Boolean 'Controla la salida con ESCAPE
 
     Dim mblnNuevo As Boolean
+    Public WithEvents btnGuardar As Button
+    Public WithEvents btnNuevo As Button
     Public WithEvents btnBuscar As Button
     Dim mblnCambiosenCodigo As Boolean
+    Public strControlActual As String 'Nombre del control actual
 
     Public Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
@@ -51,6 +54,9 @@ Public Class frmABCModulos
         Me._lblModulo_0 = New System.Windows.Forms.Label()
         Me.fraModulo = New Microsoft.VisualBasic.Compatibility.VB6.GroupBoxArray(Me.components)
         Me.lblModulo = New Microsoft.VisualBasic.Compatibility.VB6.LabelArray(Me.components)
+        Me.btnGuardar = New System.Windows.Forms.Button()
+        Me.btnNuevo = New System.Windows.Forms.Button()
+        Me.btnBuscar = New System.Windows.Forms.Button()
         Me._fraModulo_1.SuspendLayout()
         CType(Me.mshFlex, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.fraModulo, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -67,7 +73,7 @@ Public Class frmABCModulos
         Me.txtDescModulo.MaxLength = 0
         Me.txtDescModulo.Name = "txtDescModulo"
         Me.txtDescModulo.RightToLeft = System.Windows.Forms.RightToLeft.No
-        Me.txtDescModulo.Size = New System.Drawing.Size(321, 21)
+        Me.txtDescModulo.Size = New System.Drawing.Size(321, 20)
         Me.txtDescModulo.TabIndex = 4
         Me.ToolTip1.SetToolTip(Me.txtDescModulo, "Descripción del Módulo")
         '
@@ -81,7 +87,7 @@ Public Class frmABCModulos
         Me.txtCodModulo.MaxLength = 0
         Me.txtCodModulo.Name = "txtCodModulo"
         Me.txtCodModulo.RightToLeft = System.Windows.Forms.RightToLeft.No
-        Me.txtCodModulo.Size = New System.Drawing.Size(49, 21)
+        Me.txtCodModulo.Size = New System.Drawing.Size(49, 20)
         Me.txtCodModulo.TabIndex = 2
         Me.ToolTip1.SetToolTip(Me.txtCodModulo, "Código del Módulo")
         '
@@ -153,12 +159,54 @@ Public Class frmABCModulos
         Me._lblModulo_0.TabIndex = 1
         Me._lblModulo_0.Text = "Código"
         '
+        'btnGuardar
+        '
+        Me.btnGuardar.BackColor = System.Drawing.SystemColors.Control
+        Me.btnGuardar.Cursor = System.Windows.Forms.Cursors.Default
+        Me.btnGuardar.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.btnGuardar.Location = New System.Drawing.Point(8, 342)
+        Me.btnGuardar.Name = "btnGuardar"
+        Me.btnGuardar.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.btnGuardar.Size = New System.Drawing.Size(108, 39)
+        Me.btnGuardar.TabIndex = 9
+        Me.btnGuardar.Text = "&Guardar"
+        Me.btnGuardar.UseVisualStyleBackColor = False
+        '
+        'btnNuevo
+        '
+        Me.btnNuevo.BackColor = System.Drawing.SystemColors.Control
+        Me.btnNuevo.Cursor = System.Windows.Forms.Cursors.Default
+        Me.btnNuevo.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.btnNuevo.Location = New System.Drawing.Point(236, 342)
+        Me.btnNuevo.Name = "btnNuevo"
+        Me.btnNuevo.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.btnNuevo.Size = New System.Drawing.Size(108, 39)
+        Me.btnNuevo.TabIndex = 10
+        Me.btnNuevo.Text = "&Nuevo"
+        Me.btnNuevo.UseVisualStyleBackColor = False
+        '
+        'btnBuscar
+        '
+        Me.btnBuscar.BackColor = System.Drawing.SystemColors.Control
+        Me.btnBuscar.Cursor = System.Windows.Forms.Cursors.Default
+        Me.btnBuscar.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.btnBuscar.Location = New System.Drawing.Point(122, 342)
+        Me.btnBuscar.Name = "btnBuscar"
+        Me.btnBuscar.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.btnBuscar.Size = New System.Drawing.Size(108, 39)
+        Me.btnBuscar.TabIndex = 11
+        Me.btnBuscar.Text = "&Buscar"
+        Me.btnBuscar.UseVisualStyleBackColor = False
+        '
         'frmABCModulos
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Control
-        Me.ClientSize = New System.Drawing.Size(553, 340)
+        Me.ClientSize = New System.Drawing.Size(553, 393)
+        Me.Controls.Add(Me.btnBuscar)
+        Me.Controls.Add(Me.btnNuevo)
+        Me.Controls.Add(Me.btnGuardar)
         Me.Controls.Add(Me._fraModulo_1)
         Me.Cursor = System.Windows.Forms.Cursors.Default
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
@@ -185,17 +233,12 @@ Public Class frmABCModulos
         Dim strSQL As String
         Dim strTag As String 'Cadena que contendrá el string del tag que se le mandará al fromulario de consultas
         Dim strCaptionForm As String 'Titulo que mostrará el formulario de consultas
-        Dim strControlActual As String 'Nombre del control actual
+
 
         'strControlActual = UCase(btnBuscar.Name) 'Nombre del contro actual (Del que se mandó llamar la consulta)
-        'strTag = UCase(Me.Name & "." & strControlActual) 'El tag será el nombre del formulario + el nombre del control
-
-        If (txtDescModulo.Text <> "") Then
-            strControlActual = txtDescModulo.Name
-            strTag = UCase(Me.Name & "." & strControlActual)
-        End If
-
+        strTag = UCase(Me.Name & "." & strControlActual) 'El tag será el nombre del formulario + el nombre del control
         strCaptionForm = "Consulta de Módulos del Sistema"
+
         Select Case strControlActual
             Case "TXTCODMODULO"
                 gStrSql = "SELECT RIGHT('00'+LTRIM(CodModulo),2) AS CODIGO, DescModulo AS DESCRIPCION FROM CatModulos ORDER BY CodModulo"
@@ -238,7 +281,7 @@ Public Class frmABCModulos
         End If
 
         'Carga el formulario de consulta
-        'ModVariables.frmConsultas.Show()
+        Dim FrmConsultas As FrmConsultas = New FrmConsultas()
         ConfiguraConsultas(FrmConsultas, 5700, RsGral, strTag, strCaptionForm)
 
         With FrmConsultas.Flexdet
@@ -723,6 +766,7 @@ MErr:
     End Sub
 
     Private Sub txtCodModulo_Enter(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles txtCodModulo.Enter
+        strControlActual = UCase("txtCodModulo")
         SelTextoTxt((Me.txtCodModulo))
         Pon_Tool()
     End Sub
@@ -746,44 +790,53 @@ MErr:
     End Sub
 
     Private Sub txtCodModulo_KeyPress(ByVal eventSender As System.Object, ByVal eventArgs As System.Windows.Forms.KeyPressEventArgs) Handles txtCodModulo.KeyPress
-        Dim KeyAscii As Integer = Asc(eventArgs.KeyChar)
-        If (KeyAscii < System.Windows.Forms.Keys.D0 Or KeyAscii > System.Windows.Forms.Keys.D9) And KeyAscii <> System.Windows.Forms.Keys.Back Then
-            KeyAscii = 0
-        Else
-            'Pregunta sólo si ha habido cambios
-            If Cambios() And Not mblnNuevo Then
-                Select Case MsgBox(C_msgGUARDAR, MsgBoxStyle.Question + MsgBoxStyle.YesNoCancel, gstrNombCortoEmpresa)
-                    Case MsgBoxResult.Yes
-                        If Not Guardar() Then
-                            KeyAscii = 0
-                        End If
-                    Case MsgBoxResult.No 'No hace nada y permite que se teclee y borre
-                    Case MsgBoxResult.Cancel 'Cancela la captura
-                        KeyAscii = 0
-                        Me.txtCodModulo.Focus()
-                End Select
-            End If
-        End If
-        eventArgs.KeyChar = Chr(KeyAscii)
-        If KeyAscii = 0 Then
-            eventArgs.Handled = True
-        End If
+        'Dim KeyAscii As Integer = Asc(eventArgs.KeyChar)
+        'If (KeyAscii < System.Windows.Forms.Keys.D0 Or KeyAscii > System.Windows.Forms.Keys.D9) And KeyAscii <> System.Windows.Forms.Keys.Back Then
+        '    KeyAscii = 0
+        'Else
+        '    'Pregunta sólo si ha habido cambios
+        '    If Cambios() And Not mblnNuevo Then
+        '        Select Case MsgBox(C_msgGUARDAR, MsgBoxStyle.Question + MsgBoxStyle.YesNoCancel, gstrNombCortoEmpresa)
+        '            Case MsgBoxResult.Yes
+        '                If Not Guardar() Then
+        '                    KeyAscii = 0
+        '                End If
+        '            Case MsgBoxResult.No 'No hace nada y permite que se teclee y borre
+        '            Case MsgBoxResult.Cancel 'Cancela la captura
+        '                KeyAscii = 0
+        '                Me.txtCodModulo.Focus()
+        '        End Select
+        '    End If
+        'End If
+        'eventArgs.KeyChar = Chr(KeyAscii)
+        'If KeyAscii = 0 Then
+        '    eventArgs.Handled = True
+        'End If
     End Sub
 
     Private Sub txtCodModulo_Leave(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles txtCodModulo.Leave
         'If ActiveControl.Text = Me.Text Then
         If mblnCambiosenCodigo = True Then 'Si hubo cambios en el código hace la consulta
-                LlenaDatos()
-            End If
+            LlenaDatos()
+        End If
         'End If
     End Sub
 
     Private Sub txtDescModulo_Enter(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles txtDescModulo.Enter
+        strControlActual = UCase("txtDescModulo")
         SelTextoTxt((Me.txtDescModulo))
         Pon_Tool()
     End Sub
 
     Private Sub btnBuscar_Click(sender As Object, e As EventArgs) Handles btnBuscar.Click
         Buscar()
+    End Sub
+
+    Private Sub btnGuardar_Click(sender As Object, e As EventArgs) Handles btnGuardar.Click
+        Guardar()
+    End Sub
+
+    Private Sub btnNuevo_Click(sender As Object, e As EventArgs) Handles btnNuevo.Click
+        Nuevo()
     End Sub
 End Class

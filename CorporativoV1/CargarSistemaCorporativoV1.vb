@@ -98,7 +98,7 @@ Public Class CargarSistemaCorporativoV1
         Me.PicMidas.Image = Global.CorporativoV1.My.Resources.Resources.vitek11
         Me.PicMidas.Location = New System.Drawing.Point(0, 0)
         Me.PicMidas.Name = "PicMidas"
-        Me.PicMidas.Size = New System.Drawing.Size(643, 366)
+        Me.PicMidas.Size = New System.Drawing.Size(604, 390)
         Me.PicMidas.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PicMidas.TabIndex = 0
         Me.PicMidas.TabStop = False
@@ -124,7 +124,7 @@ Public Class CargarSistemaCorporativoV1
         'CargarSistemaCorporativoV1
         '
         Me.AutoScaleBaseSize = New System.Drawing.Size(5, 13)
-        Me.ClientSize = New System.Drawing.Size(643, 366)
+        Me.ClientSize = New System.Drawing.Size(604, 390)
         Me.Controls.Add(Me.lblBarra1)
         Me.Controls.Add(Me.progressBar1)
         Me.Controls.Add(Me.PicMidas)

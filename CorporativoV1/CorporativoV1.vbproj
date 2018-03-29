@@ -93,7 +93,7 @@
       <HintPath>..\packages\CrystalReports.FlashControlV71.13.0.3501\lib\net20\FlashControlV71.dll</HintPath>
     </Reference>
     <Reference Include="Interop.CRAXDRT">
-      <HintPath>..\..\..\Referencias\Interop.CRAXDRT.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\CORPORATIVO Y JOYERIA\Referencias\Interop.CRAXDRT.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="Interop.CRVIEWERLib, Version=8.0.0.0, Culture=neutral, processorArchitecture=x86">
@@ -121,7 +121,7 @@
       <HintPath>..\..\..\..\..\Downloads\Interop.Office.dll</HintPath>
     </Reference>
     <Reference Include="interop.shell32">
-      <HintPath>..\..\..\Referencias\interop.shell32.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\CORPORATIVO Y JOYERIA\Referencias\interop.shell32.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
